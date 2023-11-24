@@ -29,7 +29,7 @@ model = joblib.load('parking_lot_model.pkl')
 
 detection_status = get_detection_status()
 
-if detection_status == '1':
+if detection_status == 'Car Detected':
     st.write('One Spot Occupied')
 else:
     st.write('No Car Detected')
