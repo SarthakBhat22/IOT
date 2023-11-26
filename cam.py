@@ -6,7 +6,7 @@ import numpy as np
 from cvlib.object_detection import draw_bbox
 import concurrent.futures
 
-url = 'http://192.168.223.247/cam-hi.jpg'
+url = '**camera-url**/cam-hi.jpg'
 im=None
  
 def run1():
