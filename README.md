@@ -12,3 +12,9 @@ This is a simple smart parking system which utilises a combination of ultrasonic
 
 ## Steps
 The code for the camera and the ultrasonic has been written. The Ultrasonic was connected to the NodeMCU esp8266 along with an lcd to display whether a spot is occupied or not. The esp32 cam was connected directly to the laptop.
+
+
+
+## TO DO
+1. Add at least one more ultrasonic sensor, in order to increase the capacity.
+2. Change the way the number of spots are displayed on the lcd.
