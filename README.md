@@ -18,3 +18,4 @@ The code for the camera and the ultrasonic has been written. The Ultrasonic was 
 ## TO DO
 1. Add at least one more ultrasonic sensor, in order to increase the capacity.
 2. Change the way the number of spots are displayed on the lcd.
+3. Could add a few ir sensors to detect a car at the entrance of the parking lot, this will open and close the gate which could remain closed if all spots are occupied
